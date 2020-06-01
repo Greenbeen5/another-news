@@ -1,2 +1,5 @@
 # another-news
-an imitation of famous media applications.
+An imitation of famous media applications.
+
+## Progress
+- [ ] Project Creation
