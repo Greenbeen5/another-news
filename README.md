@@ -1,5 +1,2 @@
-# another-news
-An imitation of famous media applications.
-
-## Progress
-- [ ] Project Creation
+# random-moyu
+Objective: Randomly crawl content from some preset websites and present it on the local page.
